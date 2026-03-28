@@ -2,7 +2,7 @@
 
 🧠 Computer Science student at Ajay Kumar Garg Engineering College
 
-🌱 I’m currently learning Web Development, Python, Java and AI
+🌱 I’m currently learning Web Development, Python and AI/ML
 
 😄 Pronouns: She/Her
 
